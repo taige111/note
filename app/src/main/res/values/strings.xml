@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IOTest</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="hint_title">Title</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="remember_password">remember password</string>
+    <string name="hint_content">Content</string>
+</resources>

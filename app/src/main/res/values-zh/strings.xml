@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">删除</string>
+    <string name="hint_content">内容</string>
+    <string name="hint_title">标题</string>
+    <string name="save">保存</string>
+    <string name="app_name">输入/输出测试</string>
+</resources>
